@@ -14,8 +14,8 @@ $ ripple-tools --help
 Usage: ripple-tools [options]
 
 Options:
-  --address       ripple address                                        [string]
-  --secret        ripple secret                                         [string]
+  --address       wallet address                                        [string]
+  --secret        wallet secret                                         [string]
   --generate      generate wallet                                      [boolean]
   --sequence      transaction sequence                                  [number]
   --get-sequence  get wallet sequence                                  [boolean]
