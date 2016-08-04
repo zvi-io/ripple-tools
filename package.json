@@ -1,0 +1,18 @@
+{
+  "name": "ripple-tools",
+  "version": "0.0.0",
+  "description": "GateHub ripple tools",
+  "main": "lib/index.js",
+  "bin": "scripts/ripple-tools",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GateHub <jaka@gatehub.net> (https://www.gatehub.net)",
+  "license": "Unlicense",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "lodash": "^4.14.1",
+    "ripple-lib": "^0.17.2",
+    "yargs": "^4.8.1"
+  }
+}
