@@ -2,6 +2,8 @@
 
 Ripple utilities for managing wallets
 
+**Work in progress**
+
 ## Install
 
 npm install -g ripple-tools
