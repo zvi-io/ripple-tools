@@ -1,13 +1,13 @@
 {
   "name": "ripple-tools",
-  "version": "0.0.0",
-  "description": "GateHub ripple tools",
+  "version": "0.0.1",
+  "description": "Zvi.io ripple tools",
   "main": "lib/cmd.js",
   "bin": "bin/ripple-tools",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "GateHub <jaka@gatehub.net> (https://www.gatehub.net)",
+  "author": "Zvi ben Yaakov <zby.git@infosoc.net> (https://www.zvi.io)",
   "license": "Unlicense",
   "dependencies": {
     "bluebird": "^3.4.1",
